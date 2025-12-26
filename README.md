@@ -19,7 +19,7 @@ The system helps management and sales teams by:
 
 ## 📸 View & Play with the File
 
-**[Access Monthly Sales Tracker](https://docs.google.com/spreadsheets/d/133vg6r1IvLxpbBJ90SH4GLwXKY87pB_wo8ErP8gMOno/edit?gid=593303296#gid=593303296)**
+**[Access The File](https://docs.google.com/spreadsheets/d/133vg6r1IvLxpbBJ90SH4GLwXKY87pB_wo8ErP8gMOno/edit?gid=593303296#gid=593303296)**
 
 > Click the link above to access and explore the live system
 
