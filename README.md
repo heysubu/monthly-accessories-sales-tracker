@@ -251,10 +251,8 @@ This project demonstrates:
 
 ## 📞 Contact
 
-For freelance inquiries, customization requests, or questions:
-- [**GitHub**](https://github.com/heysubu)
-- **Email**: suubhamghadge@gmail.com
-- [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
+- 🐙 [**GitHub**](https://github.com/heysubu)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
 
 ## 📄 License
 
